@@ -1,6 +1,10 @@
 # BitTXGenerator
 Generate fake Bitcoin transactions and broadcast them to the Bitcoin network.
 
+
+Video Demonstration: https://youtu.be/zp5wL9HNWjU
+
+
 Newest Version: 1.2.1
 
 Updates (24/09/2016):
@@ -18,8 +22,6 @@ The transaction will appear on the blockchain and all the Bitcoin clients as a n
 
 I'm open to any input/suggestions for the next version. Also if you're having any trouble using the program, please contact me.
 
-
-Video Demonstration: https://youtu.be/zp5wL9HNWjU
 
 Download Windows 32/64Bit Compiled Program: https://mega.nz/#!Hd9jBCqR!v-peBpSQwxVRNxk2MwU39jtRU9Sx5elKOA-lb-ky8R8
 
