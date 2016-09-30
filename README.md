@@ -6,7 +6,6 @@ Video Demonstration: https://youtu.be/zp5wL9HNWjU
 
 Download Windows 32/64Bit Compiled Program: https://mega.nz/#!LUcSzYKZ!3BLcEHxVITINXpErEjoMDhbfEE8FZWEthKDC5n7GJ9Q
 
-Virus scan on the exe: https://virustotal.com/hr/file/4bedbd45cdc7580013cfa05f269c3ff8f38ffe9e8b4fa43c2b31c8306ba6e424/analysis/1475197176/
 
 Newest Version: 1.2.1
 
