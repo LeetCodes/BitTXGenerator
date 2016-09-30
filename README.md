@@ -23,7 +23,7 @@ The transaction will appear on the blockchain and all the Bitcoin clients as a n
 I'm open to any input/suggestions for the next version. Also if you're having any trouble using the program, please contact me.
 
 
-Download Windows 32/64Bit Compiled Program: https://mega.nz/#!Hd9jBCqR!v-peBpSQwxVRNxk2MwU39jtRU9Sx5elKOA-lb-ky8R8
+Download Windows 32/64Bit Compiled Program: https://mega.nz/#!LUcSzYKZ!3BLcEHxVITINXpErEjoMDhbfEE8FZWEthKDC5n7GJ9Q
 
 Disclaimer:
 By using this program, you agree to not create any malicious bitcoin transactions, use this program to spam/disrupt Bitcoin, or for any type of illegal use.
