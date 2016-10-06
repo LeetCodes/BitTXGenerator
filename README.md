@@ -6,8 +6,6 @@ An open source program that can generate fake Bitcoin transactions and broadcast
 
 Video Demonstration: http://sendvid.com/6pgywmr9
 
-GitHub: https://github.com/bitcoinprogrammer/BitTXGenerator
-
 Windows 32/64 Binary: https://mega.nz/#!2J9njYLI!PCHpyS4js8CwpARC8dEK7Ky9-ft7a5Tf5zz07vNKiVQ
 
 
