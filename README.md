@@ -6,7 +6,7 @@ An open source program that can generate fake Bitcoin transactions and broadcast
 
 Video Demonstration: http://sendvid.com/6pgywmr9
 
-Windows 32/64 Binary: https://mega.nz/#!2J9njYLI!PCHpyS4js8CwpARC8dEK7Ky9-ft7a5Tf5zz07vNKiVQ
+The compiled Windows Binary has been removed due to people abusing this program. You need to compile the source if you want to experiment with this program. 
 
 
 Updates (10/06/2016):
